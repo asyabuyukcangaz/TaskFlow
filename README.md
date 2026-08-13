@@ -20,5 +20,4 @@ A task management dashboard built with Next.js and JavaScript.
 ## Getting Started
 
 npm install
-
 npm run dev
