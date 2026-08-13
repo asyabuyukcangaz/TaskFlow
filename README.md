@@ -1,2 +1,23 @@
 # TaskFlow
-A modern task management platform for organizing, tracking, and managing operational tasks with priorities, deadlines, progress tracking, and task assignments. A project by Asya Buyukcangaz
+
+A task management dashboard built with Next.js and JavaScript.
+
+## Features
+- Task management
+- Mini-task tracking
+- Progress visualization
+- Dashboard charts
+- Task drawer
+- Local JSON-based data storage
+
+## Tech Stack
+- Next.js
+- React
+- JavaScript
+- CSS
+- JSON
+
+## Getting Started
+
+npm install
+npm run dev
