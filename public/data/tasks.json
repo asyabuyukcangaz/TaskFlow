@@ -1,0 +1,67 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Update driver information",
+      "description": "Verify all driver information and documentation.",
+      "responsiblePerson": "Ahmet",
+      "assignedTo": "Mehmet",
+      "startDate": "2026-08-05",
+      "dueDate": "2026-08-15",
+      "finishDate": "2026-08-12",
+      "priority": "Low",
+      "notes": "Driver submitted updated insurance documents.",
+      "miniTasks": [
+        {
+          "id": 1,
+          "title": "Verify driver's license",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "title": "Verify insurance",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "title": "Check vehicle registration",
+          "completed": true
+        },
+        {
+          "id": 4,
+          "title": "Upload documents",
+          "completed": true
+        },
+        {
+          "id": 1786533763138,
+          "title": "jdjdj",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Check vehicle documents",
+      "description": "Review all required vehicle documentation.",
+      "responsiblePerson": "Zeynep",
+      "assignedTo": "Ayşe",
+      "startDate": "2026-08-12",
+      "dueDate": "2026-08-16",
+      "finishDate": null,
+      "priority": "Medium",
+      "notes": "",
+      "miniTasks": [
+        {
+          "id": 1,
+          "title": "Check insurance",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Check inspection",
+          "completed": true
+        }
+      ]
+    }
+  ]
+}
